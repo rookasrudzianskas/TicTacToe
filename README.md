@@ -1,4 +1,4 @@
-# Nano React App Default Javascript Template
+# Tic Tac Toe App Default Javascript Template
 
 The default template project for [nano-react-app](https://github.com/adrianmcli/nano-react-app).
 
