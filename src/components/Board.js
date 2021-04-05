@@ -6,6 +6,7 @@ const Board = () => {
 
     const [board, setBoard] = useState( Array(9).fill(null));
     const [isXNext, setIsXNext] = useState(false);
+    console.log(board);
 
     const handleSquareClick = position => {
         if(board[position]) {
